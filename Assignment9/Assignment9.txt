@@ -1,0 +1,1 @@
+./Release/main.cpp.o ./Release/BstNode.cpp.o ./Release/Bst.cpp.o   

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="myWorksSpace" Database="" Version="10.0.0">
+  <Project Name="LearnProgram" Path="LearnProgram/LearnProgram.project" Active="No"/>
+  <Project Name="Lab0" Path="Lab0/Lab0.project" Active="No"/>
+  <Project Name="testing" Path="testing/testing.project" Active="No"/>
+  <Project Name="Lab1" Path="Lab1/Lab1.project" Active="No"/>
+  <Project Name="Lab2" Path="Lab2/Lab2.project" Active="No"/>
+  <Project Name="Lab3" Path="Lab3/Lab3.project" Active="No"/>
+  <Project Name="Assignment3" Path="Assignment3/Assignment3.project" Active="No"/>
+  <Project Name="Lab4" Path="Lab4/Lab4.project" Active="No"/>
+  <Project Name="Lab5" Path="Lab5/Lab5.project" Active="No"/>
+  <Project Name="Lab6" Path="Lab6/Lab6.project" Active="No"/>
+  <Project Name="Assignment4" Path="Assignment4/Assignment4.project" Active="No"/>
+  <Project Name="Assignment5" Path="Assignment5/Assignment5.project" Active="No"/>
+  <Project Name="Lab7" Path="Lab7/Lab7.project" Active="No"/>
+  <Project Name="Assignment6" Path="Assignment6/Assignment6.project" Active="No"/>
+  <Project Name="Lab8" Path="Lab8/Lab8.project" Active="No"/>
+  <Project Name="Lab_8" Path="Lab_8/Lab_8.project" Active="No"/>
+  <Project Name="Lab9" Path="Lab9/Lab9.project" Active="No"/>
+  <Project Name="Assignment8" Path="Assignment8/Assignment8.project" Active="Yes"/>
+  <Project Name="Assignment9" Path="Assignment9/Assignment9.project" Active="No"/>
+  <Project Name="Assignment_7" Path="Assignment_7/Assignment_7.project" Active="No"/>
+  <Project Name="Assignment_7part2" Path="Assignment_7part2/Assignment_7part2.project" Active="No"/>
+  <Project Name="Lab9_part2" Path="Lab9_part2/Lab9_part2.project" Active="No"/>
+  <Project Name="Lab10" Path="Lab10/Lab10.project" Active="No"/>
+  <Project Name="Lab11" Path="Lab11/Lab11.project" Active="No"/>
+  <Project Name="Lab12" Path="Lab12/Lab12.project" Active="No"/>
+  <Project Name="Lab_11" Path="Lab_10/Lab_10.project" Active="No"/>
+  <Project Name="Lab11_" Path="Lab11_/Lab11_.project" Active="No"/>
+  <Project Name="Lab12_" Path="Lab12_/Lab12_.project" Active="No"/>
+  <Project Name="Assignment_9" Path="Assignment_9/Assignment_9.project" Active="No"/>
+  <Project Name="Lab13" Path="Lab13/Lab13.project" Active="No"/>
+  <Project Name="Assignment_8" Path="Assignment_8/Assignment_8.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="no">
+      <Environment/>
+      <Project Name="LearnProgram" ConfigName="Debug"/>
+      <Project Name="Lab0" ConfigName="Debug"/>
+      <Project Name="testing" ConfigName="Debug"/>
+      <Project Name="Lab1" ConfigName="Debug"/>
+      <Project Name="Lab2" ConfigName="Debug"/>
+      <Project Name="Lab3" ConfigName="Debug"/>
+      <Project Name="Assignment3" ConfigName="Debug"/>
+      <Project Name="Lab4" ConfigName="Debug"/>
+      <Project Name="Lab5" ConfigName="Debug"/>
+      <Project Name="Lab6" ConfigName="Debug"/>
+      <Project Name="Assignment4" ConfigName="Debug"/>
+      <Project Name="Assignment5" ConfigName="Debug"/>
+      <Project Name="Lab7" ConfigName="Debug"/>
+      <Project Name="Assignment6" ConfigName="Debug"/>
+      <Project Name="Lab8" ConfigName="Debug"/>
+      <Project Name="Lab_8" ConfigName="Debug"/>
+      <Project Name="Lab9" ConfigName="Debug"/>
+      <Project Name="Assignment8" ConfigName="Debug"/>
+      <Project Name="Assignment9" ConfigName="Debug"/>
+      <Project Name="Assignment_7" ConfigName="Debug"/>
+      <Project Name="Assignment_7part2" ConfigName="Debug"/>
+      <Project Name="Lab9_part2" ConfigName="Debug"/>
+      <Project Name="Lab10" ConfigName="Debug"/>
+      <Project Name="Lab11" ConfigName="Debug"/>
+      <Project Name="Lab12" ConfigName="Debug"/>
+      <Project Name="Lab_11" ConfigName="Debug"/>
+      <Project Name="Lab11_" ConfigName="Debug"/>
+      <Project Name="Lab12_" ConfigName="Debug"/>
+      <Project Name="Assignment_9" ConfigName="Debug"/>
+      <Project Name="Lab13" ConfigName="Debug"/>
+      <Project Name="Assignment_8" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="LearnProgram" ConfigName="Release"/>
+      <Project Name="Lab0" ConfigName="Release"/>
+      <Project Name="testing" ConfigName="Release"/>
+      <Project Name="Lab1" ConfigName="Release"/>
+      <Project Name="Lab2" ConfigName="Release"/>
+      <Project Name="Lab3" ConfigName="Release"/>
+      <Project Name="Assignment3" ConfigName="Release"/>
+      <Project Name="Lab4" ConfigName="Release"/>
+      <Project Name="Lab5" ConfigName="Release"/>
+      <Project Name="Lab6" ConfigName="Release"/>
+      <Project Name="Assignment4" ConfigName="Release"/>
+      <Project Name="Assignment5" ConfigName="Release"/>
+      <Project Name="Lab7" ConfigName="Release"/>
+      <Project Name="Assignment6" ConfigName="Release"/>
+      <Project Name="Lab8" ConfigName="Release"/>
+      <Project Name="Lab_8" ConfigName="Release"/>
+      <Project Name="Lab9" ConfigName="Release"/>
+      <Project Name="Assignment8" ConfigName="Release"/>
+      <Project Name="Assignment9" ConfigName="Release"/>
+      <Project Name="Assignment_7" ConfigName="Release"/>
+      <Project Name="Assignment_7part2" ConfigName="Release"/>
+      <Project Name="Lab9_part2" ConfigName="Release"/>
+      <Project Name="Lab10" ConfigName="Release"/>
+      <Project Name="Lab11" ConfigName="Release"/>
+      <Project Name="Lab12" ConfigName="Release"/>
+      <Project Name="Lab_11" ConfigName="Release"/>
+      <Project Name="Lab11_" ConfigName="Release"/>
+      <Project Name="Lab12_" ConfigName="Release"/>
+      <Project Name="Assignment_9" ConfigName="Release"/>
+      <Project Name="Lab13" ConfigName="Release"/>
+      <Project Name="Assignment_8" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

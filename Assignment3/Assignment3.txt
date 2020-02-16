@@ -1,0 +1,1 @@
+./Debug/sequence1.cpp.o ./Debug/sequenceExam.cpp.o   

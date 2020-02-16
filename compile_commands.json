@@ -1,0 +1,393 @@
+[{
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11_\\bintree.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11_",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11_\\bintree.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11_\\bintree.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11_\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11_",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11_\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11_\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11_\\bintree.template",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11_",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11_\\bintree.template -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11_\\bintree.template.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11_\\bst.template",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11_",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11_\\bst.template -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11_\\bst.template.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11_\\bst.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11_",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11_\\bst.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11_\\bst.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab10\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab10",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab10\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab10\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab10\\bintree.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab10",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab10\\bintree.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab10\\bintree.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab10\\build_tree.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab10",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab10\\build_tree.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab10\\build_tree.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab10\\build_tree.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab10",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab10\\build_tree.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab10\\build_tree.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab10\\bintree.template",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab10",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab10\\bintree.template -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab10\\bintree.template.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment_7part2\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment_7part2",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment_7part2\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment_7part2\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment_9\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment_9",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment_9\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment_9\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab3\\test_set.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab3",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab3\\test_set.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab3\\test_set.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab3\\set.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab3",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab3\\set.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab3\\set.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab3\\set.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab3",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab3\\set.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab3\\set.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab4\\sequence2.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab4",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab4\\sequence2.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab4\\sequence2.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab4\\sequence2.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab4",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab4\\sequence2.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab4\\sequence2.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab4\\sequence_exam2.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab4",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab4\\sequence_exam2.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab4\\sequence_exam2.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab11\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\testing\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\testing",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\testing\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\testing\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab9\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab9",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab9\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab9\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab9\\recursive.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab9",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab9\\recursive.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab9\\recursive.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab2\\stats2.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab2",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab2\\stats2.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab2\\stats2.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab2\\stats2.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab2",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab2\\stats2.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab2\\stats2.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab2\\statexam2.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab2",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab2\\statexam2.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab2\\statexam2.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Desktop\\bst\\BST\\bintree.template",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab_10",
+  "command": "clang  -c C:\\Users\\Dell\\Desktop\\bst\\BST\\bintree.template -o C:\\Users\\Dell\\Desktop\\bst\\BST\\bintree.template.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Desktop\\bst\\BST\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab_10",
+  "command": "clang  -c C:\\Users\\Dell\\Desktop\\bst\\BST\\main.cpp -o C:\\Users\\Dell\\Desktop\\bst\\BST\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Desktop\\bst\\BST\\bintree.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab_10",
+  "command": "clang  -c C:\\Users\\Dell\\Desktop\\bst\\BST\\bintree.h -o C:\\Users\\Dell\\Desktop\\bst\\BST\\bintree.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Desktop\\bst\\BST\\bst.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab_10",
+  "command": "clang  -c C:\\Users\\Dell\\Desktop\\bst\\BST\\bst.h -o C:\\Users\\Dell\\Desktop\\bst\\BST\\bst.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Desktop\\bst\\BST\\bst.template",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab_10",
+  "command": "clang  -c C:\\Users\\Dell\\Desktop\\bst\\BST\\bst.template -o C:\\Users\\Dell\\Desktop\\bst\\BST\\bst.template.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab1\\stats.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab1",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab1\\stats.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab1\\stats.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab1\\stats.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab1",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab1\\stats.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab1\\stats.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab1\\statexam.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab1",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab1\\statexam.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab1\\statexam.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment8\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment8",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment8\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment8\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment8\\socializer.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment8",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment8\\socializer.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment8\\socializer.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment8\\graph.template",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment8",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment8\\graph.template -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment8\\graph.template.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment8\\socializer.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment8",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment8\\socializer.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment8\\socializer.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment8\\graph.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment8",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment8\\graph.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment8\\graph.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab0\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab0",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab0\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab0\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment3\\sequence1.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment3",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment3\\sequence1.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment3\\sequence1.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment3\\sequence1.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment3",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment3\\sequence1.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment3\\sequence1.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment3\\sequenceExam.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment3",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment3\\sequenceExam.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment3\\sequenceExam.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab9_part2\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab9_part2",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab9_part2\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab9_part2\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab9_part2\\sumover.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab9_part2",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab9_part2\\sumover.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab9_part2\\sumover.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\check_lists.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\check_lists.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\check_lists.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\bag3.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\bag3.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\bag3.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\node1.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\node1.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\node1.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\check_lists.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\check_lists.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\check_lists.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\bag_diff3.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\bag_diff3.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\bag_diff3.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\bag3.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\bag3.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\bag3.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\node1.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\node1.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab6\\node1.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment5\\set.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment5",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment5\\set.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment5\\set.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment5\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment5",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment5\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment5\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment5\\set.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment5",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment5\\set.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment5\\set.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment9\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment9",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment9\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment9\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment9\\BstNode.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment9",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment9\\BstNode.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment9\\BstNode.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment9\\BstNode.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment9",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment9\\BstNode.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment9\\BstNode.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment9\\Bst.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment9",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment9\\Bst.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment9\\Bst.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment9\\Bst.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment9",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment9\\Bst.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment9\\Bst.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab_8\\test.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab_8",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab_8\\test.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab_8\\test.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab_8\\stackpair.template",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab_8",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab_8\\stackpair.template -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab_8\\stackpair.template.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab_8\\stackpair.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab_8",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab_8\\stackpair.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab_8\\stackpair.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12_\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12_",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12_\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12_\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12_\\priority_queue.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12_",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12_\\priority_queue.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12_\\priority_queue.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12_\\priorityQueueDriver.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12_",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12_\\priorityQueueDriver.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12_\\priorityQueueDriver.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12_\\heap.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12_",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12_\\heap.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12_\\heap.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment_7\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment_7",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment_7\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment_7\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab5\\sequence3.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab5",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab5\\sequence3.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab5\\sequence3.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab5\\sequence3.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab5",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab5\\sequence3.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab5\\sequence3.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab5\\sequence_exam3.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab5",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab5\\sequence_exam3.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab5\\sequence_exam3.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab8\\stackpair.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab8",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab8\\stackpair.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab8\\stackpair.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab8\\test.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab8",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab8\\test.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab8\\test.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab8\\stackpair.template",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab8",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab8\\stackpair.template -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab8\\stackpair.template.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\LearnProgram\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\LearnProgram",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\LearnProgram\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\LearnProgram\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Desktop\\Assignment4\\node1.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment4",
+  "command": "clang  -c C:\\Users\\Dell\\Desktop\\Assignment4\\node1.h -o C:\\Users\\Dell\\Desktop\\Assignment4\\node1.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Desktop\\Assignment4\\list.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment4",
+  "command": "clang  -c C:\\Users\\Dell\\Desktop\\Assignment4\\list.h -o C:\\Users\\Dell\\Desktop\\Assignment4\\list.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Desktop\\Assignment4\\list.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment4",
+  "command": "clang  -c C:\\Users\\Dell\\Desktop\\Assignment4\\list.cpp -o C:\\Users\\Dell\\Desktop\\Assignment4\\list.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Desktop\\Assignment4\\utility.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment4",
+  "command": "clang  -c C:\\Users\\Dell\\Desktop\\Assignment4\\utility.cpp -o C:\\Users\\Dell\\Desktop\\Assignment4\\utility.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Desktop\\Assignment4\\utility.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment4",
+  "command": "clang  -c C:\\Users\\Dell\\Desktop\\Assignment4\\utility.h -o C:\\Users\\Dell\\Desktop\\Assignment4\\utility.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Desktop\\Assignment4\\try_list_methods.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment4",
+  "command": "clang  -c C:\\Users\\Dell\\Desktop\\Assignment4\\try_list_methods.cpp -o C:\\Users\\Dell\\Desktop\\Assignment4\\try_list_methods.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Desktop\\Assignment4\\node1.cxx",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment4",
+  "command": "clang  -c C:\\Users\\Dell\\Desktop\\Assignment4\\node1.cxx -o C:\\Users\\Dell\\Desktop\\Assignment4\\node1.cxx.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab7\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab7",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab7\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab7\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab7\\node2.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab7",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab7\\node2.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab7\\node2.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab7\\bag5.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab7",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab7\\bag5.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab7\\bag5.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab7\\node2.template",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab7",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab7\\node2.template -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab7\\node2.template.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab7\\bag5.template",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab7",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab7\\bag5.template -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab7\\bag5.template.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment_8\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment_8",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment_8\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment_8\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab13\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab13",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab13\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab13\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab13\\table1.template",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab13",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab13\\table1.template -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab13\\table1.template.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab13\\table1.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab13",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab13\\table1.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab13\\table1.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12\\heap.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12\\heap.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12\\heap.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12\\priority_queue.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12\\priority_queue.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Lab12\\priority_queue.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment6\\main.cpp",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment6",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment6\\main.cpp -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment6\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment6\\deque.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment6",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment6\\deque.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment6\\deque.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment6\\node2.h",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment6",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment6\\node2.h -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment6\\node2.h.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment6\\node2.template",
+  "directory": "C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment6",
+  "command": "clang  -c C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment6\\node2.template -o C:\\Users\\Dell\\Documents\\myWorksSpace\\Assignment6\\node2.template.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -DNDEBUG -I. -I.  -std=c++17  -std=c++14  -Wall  -O2  -Wall"
+ }]

@@ -1,0 +1,1 @@
+./Release/bag3.cpp.o ./Release/node1.cpp.o ./Release/main.cpp.o ./Release/check_lists.cpp.o   

@@ -1,0 +1,1 @@
+./Release/stats2.cpp.o ./Release/statexam2.cpp.o   

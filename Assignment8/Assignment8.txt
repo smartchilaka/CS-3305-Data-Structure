@@ -1,0 +1,1 @@
+./Release/main.cpp.o ./Release/socializer.cpp.o   
